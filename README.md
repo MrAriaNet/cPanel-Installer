@@ -5,7 +5,9 @@ This script is for installing WHM/cPanel and is used in Iran
 ## Features
 
 Bypass MySQL Sanction
+
 Uses WHM/cPanel Mirror in Iran for installation
+
 Can be installed on the Failover network
 
 ## How to use script
