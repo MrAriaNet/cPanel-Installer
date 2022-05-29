@@ -10,9 +10,11 @@ Can be installed on the Failover network
 
 ## How to use script
 
+```bash
 wget -O cpanelInstall.sh https://raw.githubusercontent.com/alimozhdehbakhsh/cPanel-Installer/main/cpanelInstall.sh
 chmod +x cpanelInstall.sh
 sh cpanelInstall.sh
+```
 
 ## Author
 
